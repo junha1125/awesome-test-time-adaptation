@@ -20,9 +20,9 @@ Markdown format:
 ## Requisite
 
 1. Tent: Fully Test-time Adaptation by Entropy Minimization ([pdf](https://arxiv.org/abs/2006.10726))
-  - Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, Trevor Darrell, ICLR Spotlight, 2021
+   - Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, Trevor Darrell, ICLR Spotlight, 2021
 2. Test-Time Training with Self-Supervision for Generalization under Distribution Shifts ([pdf](https://arxiv.org/abs/1909.13231))
-  - Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei A. Efros, Moritz Hardt, ICML, 2020
+   - Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei A. Efros, Moritz Hardt, ICML, 2020
 
 
 
